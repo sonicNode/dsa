@@ -1,0 +1,1 @@
+ cout<<setw(4)<<setfill(' ')<<left;
